@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623850536288",
+    "firebase_url": "https://property-finder-osc127-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "property-finder-osc127",
+    "storage_bucket": "property-finder-osc127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623850536288:android:438698d7d601522931f205",
+        "android_client_info": {
+          "package_name": "com.example.f2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623850536288-sg0liunsd30gi6jtkvuiqo97t7660s1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIEbYIwIHXB9i651cDxeZCU6h7uCT1YCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623850536288-sg0liunsd30gi6jtkvuiqo97t7660s1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
